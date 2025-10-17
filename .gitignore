@@ -2,6 +2,5 @@ __pycache__/
 *.pyc
 *.pkl
 *.h5
-*.keras
 .env
 .DS_Store
